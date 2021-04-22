@@ -1,4 +1,4 @@
-# "Brainwaves - Managing Conditional Events" 
+# Brainwaves - Android Application for Managing Conditional Events 
 ## Computer Science degree final year dissertation project
 
 The main aim of this project is to alleviate the lives of busy people by developing a mobile application that will allow the users to create different conditional events (or tasks) and receive notifications when the specific conditions are met.
