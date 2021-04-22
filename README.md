@@ -3,7 +3,7 @@
 
 The main aim of this project is to alleviate the lives of busy people by developing a mobile application that will allow the users to create different conditional events (or tasks) and receive notifications when the specific conditions are met. Currently the application supports time-based, location-based, and weather-based conditions.
 
-### Getting Started
+## Getting Started
 These instructions will get the Brainwaves app up and running on your Android Device.
 
 ### Prerequisites
